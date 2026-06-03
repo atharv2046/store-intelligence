@@ -1,0 +1,23 @@
+{
+  "STORE_1": {
+    "entry": [
+      "videos/store1/entry.mp4"
+    ],
+    "zones": {
+      "ZONE_1": "videos/store1/zone1.mp4",
+      "ZONE_2": "videos/store1/zone2.mp4"
+    },
+    "billing": "videos/store1/billing.mp4"
+  },
+
+  "STORE_2": {
+    "entry": [
+      "videos/store2/entry1.mp4",
+      "videos/store2/entry2.mp4"
+    ],
+    "zones": {
+      "ZONE": "videos/store2/zone.mp4"
+    },
+    "billing": "videos/store2/billing.mp4"
+  }
+}
